@@ -1,1 +1,1 @@
-# Qt-C--Book
+# Qt-CPP-Book
