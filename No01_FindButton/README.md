@@ -1,2 +1,1 @@
-
-https://github.com/KomKGT/Qt_CPP_Book/issues/1#issue-1010552677
+![image](https://user-images.githubusercontent.com/81642936/135216219-47eb7867-335c-4026-85ff-6d22a692ba85.png)
